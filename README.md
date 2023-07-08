@@ -1,1 +1,1 @@
-# .github
+# AWS Community Bosnia
